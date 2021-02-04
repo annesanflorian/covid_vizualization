@@ -4,7 +4,7 @@ Foi utilizada a biblioteca [Plotly](https://plotly.com/) para a visualização d
 
 Os dados foram retirados do repositório [Our World in Data](https://github.com/owid/covid-19-data/tree/master/public/data/vaccinations) 
 
-![](demo.gif)
+![](src/demo.gif)
 
 ---
 
